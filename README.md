@@ -12,3 +12,13 @@ Basé sur le document de conception :
 
 ## 🚀 Flux d'informations
 [cite_start]L'IA est alimentée par la base de données et les APIs externes pour fournir une simulation précise via l'interface[cite: 38, 39, 40].
+
+Philosophie "User-First" : Contrairement aux générateurs de leads classiques (POWR Leads, Hello Watt) qui capturent des données pour les revendre , Sunlocal garantit l'anonymat de l'utilisateur jusqu'au choix final.
++4
+
+
+Neutralité de l'IA : L'algorithme de matching doit être 100% neutre, plaçant l'utilisateur au cœur du processus.
++1
+
+
+Protection des données : Aucune revente de leads ; le modèle repose sur la crédibilité RGPD et la transparence
